@@ -1,5 +1,7 @@
 # bmi_calculator
 
+https://user-images.githubusercontent.com/75944731/176044469-4b9b9b17-2cc2-4c7a-9070-e1cb0ad72a59.mp4
+
 A new Flutter project.
 
 ## Getting Started
